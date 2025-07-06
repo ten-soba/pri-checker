@@ -17,6 +17,19 @@
     <script type="module" crossorigin src="/pri-checker/assets/index-BUBYIcv4.js"></script>
     <link rel="stylesheet" crossorigin href="/pri-checker/assets/index-CI5Bdk_T.css">
 
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const menuList = document.querySelector('.q-scrollarea__content');
+    if (menuList) menuList.style.display = 'none';
+
+    const toolbar = document.querySelector('.q-toolbar.row.no-wrap.items-center');
+    if (toolbar) toolbar.style.display = 'none';
+
+    const introCard = document.querySelector('.q-card[style="width: fit-content;"]');
+    if (introCard) introCard.style.display = 'none';
+  });
+</script>
+
   </head>
   <body>
     <div id="app"></div>
