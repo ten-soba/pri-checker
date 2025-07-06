@@ -20,6 +20,16 @@
     }
   </style>
 
+  <!-- JSで確実に非表示 -->
+  <script>
+    window.addEventListener('load', () => {
+    // 自己紹介カードだけ非表示
+  const introCard = document.querySelector('.q-card[style="width: fit-content;"]');
+  if (introCard) introCard.style.display = 'none';
 
+  // タイトルテキストだけ空にする（要素自体は残す）
+  const title = document.querySelector('.q-toolbar__title.ellipsis');
+  if (title) title.textContent = '';
+});
   </script>
 </head>
