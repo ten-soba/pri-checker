@@ -113,6 +113,13 @@
       "num": 108
     },
     {
+      "name": "ヴァイオレット",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 298
+    },
+    {
       "name": "ペコリーヌ",
       "element": "光",
       "attack": "b",
@@ -379,6 +386,13 @@
       "num": 49
     },
     {
+      "name": "カノン",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 302
+    },
+    {
       "name": "イノリ",
       "element": "火",
       "attack": "b",
@@ -482,6 +496,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 251
+    },
+    {
+      "name": "クリスティーナ（アルファ）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 290
     },
     {
       "name": "エリコ",
@@ -1071,6 +1092,20 @@
       "num": 244
     },
     {
+      "name": "ツムギ（ジオゲヘナ）",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 301
+    },
+    {
+      "name": "ホウオウ",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 297
+    },
+    {
       "name": "水ミフユ",
       "element": "水",
       "attack": "b",
@@ -1083,6 +1118,13 @@
       "attack": "b",
       "getMethod": "low",
       "num": 1
+    },
+     {
+      "name": "イロハ",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 303
     },
     {
       "name": "ワンダーアユミ",
@@ -1118,6 +1160,13 @@
       "attack": "m",
       "getMethod": "permanent",
       "num": 77
+    },
+    {
+      "name": "アオイ（パイロット）",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 295
     },
     {
       "name": "作業着アオイ",
@@ -1379,6 +1428,13 @@
       "num": 75
     },
     {
+      "name": "ソノ",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 300
+    },
+    {
       "name": "ルゥ",
       "element": "闇",
       "attack": "m",
@@ -1575,6 +1631,13 @@
       "num": 287
     },
     {
+      "name": "クローチェ（エアリアル）",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 296
+    },
+    {
       "name": "スズメ",
       "element": "風",
       "attack": "m",
@@ -1743,6 +1806,13 @@
       "num": 199
     },
     {
+      "name": "フィオ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 292
+    },
+    {
       "name": "プリキャル",
       "element": "闇",
       "attack": "m",
@@ -1799,11 +1869,25 @@
       "num": 267
     },
     {
+      "name": "ルイズマリー",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 299
+    },
+    {
       "name": "ハツネ",
       "element": "光",
       "attack": "m",
       "getMethod": "permanent",
       "num": 36
+    },
+    {
+      "name": "ネネカ（アルファ）",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 291
     },
     {
       "name": "ミサキ",
@@ -1855,6 +1939,13 @@
       "num": 253
     },
     {
+      "name": "チカ（儀装束）",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 294
+    },
+    {
       "name": "水スズメ",
       "element": "水",
       "attack": "m",
@@ -1867,6 +1958,13 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 275
+    },
+    {
+      "name": "ランファ（儀装束）",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 293
     },
     {
       "name": "水キャル",
@@ -1888,6 +1986,13 @@
       "attack": "b",
       "getMethod": "low",
       "num": 6
+    },
+    {
+      "name": "エリス（サマー）",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 304
     },
     {
       "name": "カリン",
@@ -2021,90 +2126,6 @@
       "attack": "m",
       "getMethod": "other",
       "num": 270
-    },{
-      "name": "クリスティーナ（アルファ）",
-      "element": "闇",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 1001
-    },{
-      "name": "ネネカ（アルファ）",
-      "element": "闇",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 1002
-    },{
-      "name": "フィオ",
-      "element": "風",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 502
-    },{
-      "name": "ランファ（儀装束）",
-      "element": "風",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 1004
-    },{
-      "name": "チカ（儀装束）",
-      "element": "風",
-      "attack": "m",
-      "getMethod": "permanent",
-      "num": 1005
-    },{
-      "name": "アオイ（パイロット）",
-      "element": "光",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 1006
-    },{
-      "name": "クローチェ（エアリアル）",
-      "element": "火",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 1007
-    },{
-      "name": "ヴァイオレット",
-      "element": "闇",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 1008
-    },{
-      "name": "ルイズマリー",
-      "element": "火",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 1009
-    },{
-      "name": "ソノ",
-      "element": "水",
-      "attack": "b",
-      "getMethod": "permanent",
-      "num": 1010
-    },{
-      "name": "ツムギ（ジオゲヘナ）",
-      "element": "光",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 1011
-    },{
-      "name": "カノン",
-      "element": "火",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 1012
-    },{
-      "name": "イロハ",
-      "element": "光",
-      "attack": "b",
-      "getMethod": "permanent",
-      "num": 1013
-    },{
-      "name": "エリス（サマー）",
-      "element": "風",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 1014
     }
   ]
 }
