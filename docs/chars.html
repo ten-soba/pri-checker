@@ -23,11 +23,7 @@
   <!-- JSで確実に非表示 -->
   <script>
     window.addEventListener('load', () => {
-  // ヘッダーだけ非表示
-  const header = document.querySelector('.q-header.q-layout__section--marginal.fixed-top.bg-primary.text-white');
-  if (header) header.style.display = 'none';
-
-  // 自己紹介カードだけ非表示
+    // 自己紹介カードだけ非表示
   const introCard = document.querySelector('.q-card[style="width: fit-content;"]');
   if (introCard) introCard.style.display = 'none';
 
