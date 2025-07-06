@@ -8,9 +8,10 @@
   <meta property="og:url" content="" />
   <meta property="og:description" content="" />
 
+  
+  <title>404</title>
   <script>
-  // アクセスしたら404.htmlにリダイレクト
-  location.replace('/pri-checker/404.html');
-</script>
-
+    sessionStorage.setItem('path', location.pathname)
+    location.replace('./')
+  </script>
 </head>
