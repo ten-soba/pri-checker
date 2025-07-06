@@ -2021,6 +2021,130 @@
       "attack": "m",
       "getMethod": "other",
       "num": 270
+    },
+      
+      
+    {
+      "name": "#上記まで参照元。下記から追記_20250706",
+      "element": "",
+      "attack": "",
+      "getMethod": "",
+      "num": 9999
+    },{
+      "name": "クリスティーナ(アルファ)",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 1001
+    },{
+      "name": "ネネカ(アルファ)",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 1002
+    },{
+      "name": "フィオ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 1003
+    },{
+      "name": "ランファ(儀装束)",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 1004
+    },{
+      "name": "チカ(儀装束)",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 1005
+    },{
+      "name": "アオイ(パイロット)",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 1006
+    },{
+      "name": "クローチェ(パイロット)",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 1007
+    },{
+      "name": "ヴァイオレット",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 1008
+    },{
+      "name": "ルイズマリー",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 1009
+    },{
+      "name": "ソノ",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 1010
+    },{
+      "name": "ツムギ(ジオゲヘナ)",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 1011
+    },{
+      "name": "カノン",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 1012
+    },{
+      "name": "イロハ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 1013
+    },{
+      "name": "水着エリス(サマー)",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 1014
     }
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }
