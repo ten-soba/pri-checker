@@ -9,5 +9,28 @@
   <meta property="og:description" content="キャラの所持状況確認用" />
 
 
-</script>
+  <!-- CSSで最初から非表示 -->
+  <style>
+    .q-header.q-layout__section--marginal.fixed-top.bg-primary.text-white,
+    .q-card[style="width: fit-content;"] {
+      display: none !important;
+    }
+    .q-toolbar__title.ellipsis {
+      visibility: hidden !important;
+    }
+  </style>
+
+  <!-- JSで確実に非表示 -->
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      const header = document.querySelector('.q-header.q-layout__section--marginal.fixed-top.bg-primary.text-white');
+      if (header) header.style.display = 'none';
+
+      const introCard = document.querySelector('.q-card[style="width: fit-content;"]');
+      if (introCard) introCard.style.display = 'none';
+
+      const title = document.querySelector('.q-toolbar__title.ellipsis');
+      if (title) title.textContent = '';
+    });
+  </script>
 </head>
