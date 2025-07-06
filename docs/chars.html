@@ -22,15 +22,18 @@
 
   <!-- JSで確実に非表示 -->
   <script>
-    window.addEventListener('DOMContentLoaded', () => {
-      const header = document.querySelector('.q-header.q-layout__section--marginal.fixed-top.bg-primary.text-white');
-      if (header) header.style.display = 'none';
+    window.addEventListener('load', () => {
+  // ヘッダーだけ非表示
+  const header = document.querySelector('.q-header.q-layout__section--marginal.fixed-top.bg-primary.text-white');
+  if (header) header.style.display = 'none';
 
-      const introCard = document.querySelector('.q-card[style="width: fit-content;"]');
-      if (introCard) introCard.style.display = 'none';
+  // 自己紹介カードだけ非表示
+  const introCard = document.querySelector('.q-card[style="width: fit-content;"]');
+  if (introCard) introCard.style.display = 'none';
 
-      const title = document.querySelector('.q-toolbar__title.ellipsis');
-      if (title) title.textContent = '';
-    });
+  // タイトルテキストだけ空にする（要素自体は残す）
+  const title = document.querySelector('.q-toolbar__title.ellipsis');
+  if (title) title.textContent = '';
+});
   </script>
 </head>
