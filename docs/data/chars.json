@@ -2022,22 +2022,16 @@
       "getMethod": "other",
       "num": 270
     },
-      
-      
+    
+    
     {
-      "name": "#上記まで参照元。下記から追記_20250706",
-      "element": "",
-      "attack": "",
-      "getMethod": "",
-      "num": 9999
-    },{
-      "name": "クリスティーナ(アルファ)",
+      "name": "クリスティーナ（アルファ）",
       "element": "闇",
       "attack": "b",
       "getMethod": "limited",
       "num": 1001
     },{
-      "name": "ネネカ(アルファ)",
+      "name": "ネネカ（アルファ）",
       "element": "闇",
       "attack": "m",
       "getMethod": "limited",
@@ -2047,27 +2041,27 @@
       "element": "風",
       "attack": "m",
       "getMethod": "limited",
-      "num": 1003
+      "num": 502
     },{
-      "name": "ランファ(儀装束)",
+      "name": "ランファ（儀装束）",
       "element": "風",
       "attack": "m",
       "getMethod": "limited",
       "num": 1004
     },{
-      "name": "チカ(儀装束)",
+      "name": "チカ（儀装束）",
       "element": "風",
       "attack": "m",
       "getMethod": "permanent",
       "num": 1005
     },{
-      "name": "アオイ(パイロット)",
+      "name": "アオイ（パイロット）",
       "element": "光",
       "attack": "b",
       "getMethod": "limited",
       "num": 1006
     },{
-      "name": "クローチェ(パイロット)",
+      "name": "クローチェ（パイロット）",
       "element": "火",
       "attack": "m",
       "getMethod": "limited",
@@ -2091,7 +2085,7 @@
       "getMethod": "permanent",
       "num": 1010
     },{
-      "name": "ツムギ(ジオゲヘナ)",
+      "name": "ツムギ（ジオゲヘナ）",
       "element": "光",
       "attack": "b",
       "getMethod": "limited",
@@ -2109,42 +2103,11 @@
       "getMethod": "permanent",
       "num": 1013
     },{
-      "name": "水着エリス(サマー)",
+      "name": "水着エリス（サマー）",
       "element": "風",
       "attack": "m",
       "getMethod": "limited",
       "num": 1014
     }
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   ]
 }
