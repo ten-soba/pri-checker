@@ -1,16 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta property="og:title" content="" />
-  <meta property="og:site_name" content="" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://ten-soba.github.io/pri-checker/" />
-  <meta property="og:description" content="プリコネ" />
-
-  <title>404</title>
+  <title>404 Not Found</title>
+  <meta name="robots" content="noindex" />
   <script>
-    sessionStorage.setItem('path', location.pathname)
-    location.replace('./')
+    // 3秒後にトップへリダイレクトしたい場合（任意）
+    setTimeout(() => location.replace('/pri-checker/chars.html'), 3000);
   </script>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+  </style>
 </head>
+<body>
+  <h1>404 Not Found</h1>
+  <p>お探しのページは見つかりませんでした。</p>
+  <p>3秒後にキャラ一覧へ戻ります。</p>
+</body>
+</html>
