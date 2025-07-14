@@ -1,5 +1,10 @@
 # pri-checker
-githubやプログラムの学習目的、個人的なプリコネツールのためのテスト用リポジトリです。
+このリポジトリは、GitHubおよびプログラミング学習、個人的なプリコネのツール開発のためのテスト用です。
+---
+**GitHub Pagesにて公開中:**
+[https://ten-soba.github.io/pri-checker/chars](https://ten-soba.github.io/pri-checker/chars)
 
-参考元　2025.01最終更新の
-ttps://manami0001.github.io/pricone/chars
+---
+**ベースにしたプロジェクト:**
+2025年1月に更新が停止している以下のプロジェクトを参考にさせていただきました。
+[https://manami0001.github.io/pricone/chars](https://manami0001.github.io/pricone/chars)
