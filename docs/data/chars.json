@@ -1247,7 +1247,7 @@
     },
     {
       "name": "プレシア（サマー）",
-      "element": "水",
+      "element": "風",
       "attack": "b",
       "getMethod": "limited",
       "num": 306
