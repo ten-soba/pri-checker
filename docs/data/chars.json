@@ -925,6 +925,13 @@
       "num": 39
     },
     {
+      "name": "クリア（サマー）",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 307
+    },
+    {
       "name": "ニノン",
       "element": "火",
       "attack": "b",
@@ -1281,6 +1288,13 @@
       "num": 161
     },
     {
+      "name": "アネモネ（サマー）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 308
+    },
+    {
       "name": "水ユイ",
       "element": "水",
       "attack": "m",
@@ -1335,6 +1349,13 @@
       "attack": "b",
       "getMethod": "low",
       "num": 24
+    },
+    {
+      "name": "ニノン（サマー）",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 309
     },
     {
       "name": "水ハツネ",
@@ -2140,6 +2161,23 @@
       "attack": "m",
       "getMethod": "other",
       "num": 270
+    },
+
+
+
+    {
+      "name": "アイラ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 310
+    },
+    {
+      "name": "シナツ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 311
     }
   ]
 }
