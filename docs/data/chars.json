@@ -407,6 +407,13 @@
       "num": 116
     },
     {
+      "name": "シナツ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 311
+    },
+    {
       "name": "プリヒヨリ",
       "element": "火",
       "attack": "b",
@@ -440,6 +447,13 @@
       "attack": "b",
       "getMethod": "event",
       "num": 93
+    },
+    {
+      "name": "アイラ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 310
     },
     {
       "name": "タマキ",
@@ -692,6 +706,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 61
+    },
+    {
+      "name": "ヒヨリ（サラサリア）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 312
     },
     {
       "name": "怪盗イノリ",
@@ -2162,22 +2183,26 @@
       "getMethod": "other",
       "num": 270
     },
-
-
-
     {
-      "name": "アイラ",
-      "element": "火",
-      "attack": "b",
+      "name": "ユキノ",
+      "element": "水",
+      "attack": "m",
       "getMethod": "limited",
-      "num": 310
-    },
+      "num": 313
+    }
+
+
+
+    
+    
+    
+    ,
     {
-      "name": "シナツ",
-      "element": "風",
-      "attack": "b",
+      "name": "xxx",
+      "element": "x",
+      "attack": "x",
       "getMethod": "limited",
-      "num": 311
+      "num": 314
     }
   ]
 }
