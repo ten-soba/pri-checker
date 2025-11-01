@@ -470,6 +470,13 @@
       "num": 152
     },
     {
+      "name": "サツキ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 314
+    },
+    {
       "name": "トモ",
       "element": "風",
       "attack": "b",
@@ -1035,6 +1042,13 @@
       "attack": "b",
       "getMethod": "permanent",
       "num": 32
+    },
+    {
+      "name": "サクラ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 315
     },
     {
       "name": "クリヨリ",
@@ -1785,6 +1799,13 @@
       "num": 191
     },
     {
+      "name": "アラクネ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 317
+    }, 
+    {
       "name": "ハツシオ",
       "element": "光",
       "attack": "b",
@@ -2189,6 +2210,35 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 313
+    }, 
+    {
+      "name": "ユキノ",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 316
+    }, 
+    
+    {
+      "name": "カスミ（シスター）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 318
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 319
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 320
     }
   ]
 }
