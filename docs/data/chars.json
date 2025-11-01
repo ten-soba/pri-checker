@@ -1803,7 +1803,7 @@
       "element": "火",
       "attack": "b",
       "getMethod": "limited",
-      "num": 317
+      "num": 316
     }, 
     {
       "name": "ハツシオ",
@@ -2211,13 +2211,7 @@
       "getMethod": "limited",
       "num": 313
     }, 
-    {
-      "name": "ユキノ",
-      "element": "水",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 316
-    }, 
+    
     
     {
       "name": "カスミ（シスター）",
