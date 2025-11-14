@@ -414,6 +414,13 @@
       "num": 311
     },
     {
+      "name": "ナーナ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 319
+    },
+    {
       "name": "プリヒヨリ",
       "element": "火",
       "attack": "b",
@@ -1554,6 +1561,13 @@
       "num": 235
     },
     {
+      "name": "カスミ（シスター）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 318
+    },
+    {
       "name": "正月キャル",
       "element": "闇",
       "attack": "m",
@@ -2210,30 +2224,90 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 313
-    }, 
+    },
     
     
-    {
-      "name": "カスミ（シスター）",
-      "element": "光",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 318
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 319
-    },
+
+
+
     {
       "name": "実装前",
       "element": "",
       "attack": "",
       "getMethod": "limited",
       "num": 320
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 321
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 322
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 323
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 324
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 325
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 326
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 327
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 328
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 329
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 330
     }
+
   ]
 }
 
