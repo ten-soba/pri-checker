@@ -50,18 +50,18 @@
       "num": 78
     },
     {
-      "name": "シェフィ（サマー）",
-      "element": "光",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 305
-    },
-    {
       "name": "ノワールクウカ",
       "element": "闇",
       "attack": "m",
       "getMethod": "permanent",
       "num": 170
+    },
+    {
+      "name": "シェフィ（サマー）",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 305
     },
     {
       "name": "クリジュン",
@@ -162,18 +162,18 @@
       "num": 62
     },
     {
-      "name": "水ユカリ",
-      "element": "水",
-      "attack": "b",
-      "getMethod": "permanent",
-      "num": 234
-    },
-    {
       "name": "正月コッコロ",
       "element": "光",
       "attack": "b",
       "getMethod": "limited",
       "num": 102
+    },
+    {
+      "name": "水ユカリ",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 234
     },
     {
       "name": "ノゾミ",
