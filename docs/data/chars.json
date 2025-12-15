@@ -883,6 +883,13 @@
       "num": 188
     },
     {
+      "name": "ユイ（クリスマス）",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 320
+    },
+    {
       "name": "バレシズル",
       "element": "火",
       "attack": "b",
@@ -2230,17 +2237,11 @@
 
 
 
+
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 320
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "ミソラ（クリスマス）",
+      "element": "水",
+      "attack": "m",
       "getMethod": "limited",
       "num": 321
     },
