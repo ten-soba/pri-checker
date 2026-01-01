@@ -2239,34 +2239,35 @@
       "getMethod": "limited",
       "num": 313
     },
-    
-    
-
-
-
-
-
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "コッコロ（大人）",
+      "element": "風",
+      "attack": "m",
       "getMethod": "limited",
       "num": 322
     },
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "シズル（ニューイヤー）",
+      "element": "風",
+      "attack": "b",
       "getMethod": "limited",
       "num": 323
     },
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "リノ（ニューイヤー）",
+      "element": "光",
+      "attack": "m",
       "getMethod": "limited",
       "num": 324
     },
+    
+    
+
+
+
+
+
+
     {
       "name": "実装前",
       "element": "",
