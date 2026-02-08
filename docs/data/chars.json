@@ -99,6 +99,13 @@
       "num": 280
     },
     {
+      "name": "シズル（ニューイヤー）",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 323
+    },
+    {
       "name": "ハロツムギ",
       "element": "闇",
       "attack": "b",
@@ -125,6 +132,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 298
+    },
+    {
+      "name": "ヴァイオレット（イサナミ）",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 325
     },
     {
       "name": "ペコリーヌ",
@@ -1575,6 +1589,13 @@
       "num": 235
     },
     {
+      "name": "リノ（ニューイヤー）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 324
+    },
+    {
       "name": "カスミ（シスター）",
       "element": "光",
       "attack": "m",
@@ -2246,37 +2267,10 @@
       "getMethod": "limited",
       "num": 322
     },
-    {
-      "name": "シズル（ニューイヤー）",
-      "element": "風",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 323
-    },
-    {
-      "name": "リノ（ニューイヤー）",
-      "element": "光",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 324
-    },
-    
-    
-
-
-
-
 
 
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 325
-    },
-    {
-      "name": "実装前",
+      "name": "ライラエル（パルフェクト）",
       "element": "",
       "attack": "",
       "getMethod": "limited",
