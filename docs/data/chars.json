@@ -2271,8 +2271,8 @@
 
     {
       "name": "ライラエル（パルフェクト）",
-      "element": "",
-      "attack": "",
+      "element": "風",
+      "attack": "m",
       "getMethod": "limited",
       "num": 326
     },
