@@ -50,6 +50,13 @@
       "num": 78
     },
     {
+      "name": "ペコリーヌ（アストライア）",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 328
+    },
+    {
       "name": "ノワールクウカ",
       "element": "闇",
       "attack": "m",
@@ -1204,6 +1211,13 @@
       "num": 303
     },
     {
+      "name": "ネフィネラ（鬼面仏心）",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 327
+    },
+    {
       "name": "ワンダーアユミ",
       "element": "風",
       "attack": "b",
@@ -1293,6 +1307,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 281
+    },
+    {
+      "name": "ワカナ（ウィンター）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 329
     },
     {
       "name": "レム",
@@ -1806,6 +1827,13 @@
       "num": 168
     },
     {
+      "name": "ライラエル（パルフェクト）",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 326
+    },
+    {
       "name": "カスミ",
       "element": "光",
       "attack": "m",
@@ -1860,6 +1888,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 160
+    },
+    {
+      "name": "コッコロ（大人）",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 322
     },
     {
       "name": "ミサト",
@@ -2260,51 +2295,43 @@
       "getMethod": "limited",
       "num": 313
     },
-    {
-      "name": "コッコロ（大人）",
-      "element": "風",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 322
-    },
 
 
     {
-      "name": "ライラエル（パルフェクト）",
-      "element": "風",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 326
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 327
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 328
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 329
-    },
-    {
-      "name": "実装前",
+      "name": "シオリ（ウィンター）",
       "element": "",
       "attack": "",
       "getMethod": "limited",
       "num": 330
-    }
-
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 331
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 332
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 333
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 334
+    },
   ]
 }
 
