@@ -1463,6 +1463,13 @@
       "num": 14
     },
     {
+      "name": "シオリ（ウィンター）",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 330
+    },
+    {
       "name": "ヨリ",
       "element": "闇",
       "attack": "m",
@@ -2297,13 +2304,7 @@
     },
 
 
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 330
-    },
+
     {
       "name": "実装前",
       "element": "",
