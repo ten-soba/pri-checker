@@ -1072,6 +1072,13 @@
       "num": 87
     },
     {
+      "name": "グレイス（バニー）",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 331
+    },
+    {
       "name": "サレン",
       "element": "火",
       "attack": "b",
@@ -2275,6 +2282,13 @@
       "num": 60
     },
     {
+      "name": "キョウカ（ゴシック）",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 332
+    },
+    {
       "name": "ハロキョウカ",
       "element": "火",
       "attack": "m",
@@ -2305,24 +2319,12 @@
 
 
 
+
+
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 331
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 332
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "キャル（覇瞳天星）",
+      "element": "闇",
+      "attack": "m",
       "getMethod": "limited",
       "num": 333
     },
@@ -2332,6 +2334,27 @@
       "attack": "",
       "getMethod": "limited",
       "num": 334
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 335
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 336
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 337
     }
   ]
 }
