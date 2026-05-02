@@ -1192,7 +1192,7 @@
     {
       "name": "ミホ（ガルパン）",
       "element": "火",
-      "attack": "魔法",
+      "attack": "m",
       "getMethod": "permanent",
       "num": 334
     },
@@ -2338,17 +2338,10 @@
       "num": 313
     },
 
-
-
-
-
-
-
-
     {
       "name": "エリカ（ガルパン）",
       "element": "風",
-      "attack": "",
+      "attack": "b",
       "getMethod": "limited",
       "num": 336
     },
@@ -2358,6 +2351,27 @@
       "attack": "",
       "getMethod": "limited",
       "num": 337
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 338
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 339
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 340
     }
   ]
 }
