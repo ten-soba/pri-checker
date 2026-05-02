@@ -1190,6 +1190,13 @@
       "num": 301
     },
     {
+      "name": "ミホ（ガルパン）",
+      "element": "火",
+      "attack": "魔法",
+      "getMethod": "permanent",
+      "num": 334
+    },
+    {
       "name": "ホウオウ",
       "element": "火",
       "attack": "m",
@@ -1680,6 +1687,13 @@
       "num": 40
     },
     {
+      "name": "マホ（ガルパン）",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 335
+    },
+    {
       "name": "ドリームマホ",
       "element": "光",
       "attack": "m",
@@ -2114,6 +2128,13 @@
       "num": 253
     },
     {
+      "name": "キャル（覇瞳天星）",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 333
+    },
+    {
       "name": "チカ（儀装束）",
       "element": "風",
       "attack": "m",
@@ -2321,30 +2342,12 @@
 
 
 
+
+
+
     {
-      "name": "キャル（覇瞳天星）",
-      "element": "闇",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 333
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 334
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 335
-    },
-    {
-      "name": "実装前",
-      "element": "",
+      "name": "エリカ（ガルパン）",
+      "element": "風",
       "attack": "",
       "getMethod": "limited",
       "num": 336
