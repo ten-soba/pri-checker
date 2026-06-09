@@ -799,6 +799,13 @@
       "num": 241
     },
     {
+      "name": "エリカ（ガルパン）",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 336
+    },
+    {
       "name": "ネア",
       "element": "水",
       "attack": "b",
@@ -853,13 +860,6 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 272
-    },
-    {
-      "name": "ウヅキ",
-      "element": "光",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 106
     },
     {
       "name": "フブキ",
@@ -979,6 +979,13 @@
       "attack": "b",
       "getMethod": "event",
       "num": 133
+    },
+    {
+      "name": "ルルィ",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 337
     },
     {
       "name": "モニカ",
@@ -1139,6 +1146,20 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 288
+    },
+    {
+      "name": "ウヅキ",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 106
+    },
+    {
+      "name": "リリ（ヴァルキュリア）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 338
     },
     {
       "name": "儀ユキ",
@@ -2292,7 +2313,7 @@
       "name": "水キョウカ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent",
+      "getMethod": "limited",
       "num": 198
     },
     {
@@ -2338,40 +2359,36 @@
       "num": 313
     },
 
+
+    
+    
     {
-      "name": "エリカ（ガルパン）",
-      "element": "風",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 336
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 337
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 338
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "プレシア（ヴァルキュリア）",
+      "element": "光",
+      "attack": "m",
       "getMethod": "limited",
       "num": 339
     },
     {
+      "name": "クリア（ヴァルキュリア）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 340
+    },
+    {
       "name": "実装前",
       "element": "",
       "attack": "",
       "getMethod": "limited",
-      "num": 340
+      "num": 341
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 342
     }
   ]
 }
