@@ -106,6 +106,13 @@
       "num": 280
     },
     {
+      "name": "クリア（ヴァルキュリア）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 340
+    },
+    {
       "name": "シズル（ニューイヤー）",
       "element": "風",
       "attack": "b",
@@ -918,6 +925,13 @@
       "num": 70
     },
     {
+      "name": "シェフィ（ヴ）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 341
+    },
+    {
       "name": "レンマヒル",
       "element": "風",
       "attack": "b",
@@ -1238,7 +1252,14 @@
       "getMethod": "low",
       "num": 1
     },
-     {
+    {
+      "name": "プレシア（ヴァルキュリア）",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 339
+    },
+    {
       "name": "イロハ",
       "element": "光",
       "attack": "b",
@@ -1911,6 +1932,13 @@
       "num": 219
     },
     {
+      "name": "クレジッタ（サマー）",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 343
+    },
+    {
       "name": "ステクルミ",
       "element": "光",
       "attack": "b",
@@ -2091,6 +2119,13 @@
       "attack": "m",
       "getMethod": "permanent",
       "num": 36
+    },
+    {
+      "name": "ルイズマリー（サマー）",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 342
     },
     {
       "name": "ネネカ（アルファ）",
@@ -2358,37 +2393,54 @@
       "getMethod": "limited",
       "num": 313
     },
-
-
-    
-    
     {
-      "name": "プレシア（ヴァルキュリア）",
-      "element": "光",
-      "attack": "m",
+      "name": "実装前",
+      "element": "",
+      "attack": "",
       "getMethod": "limited",
-      "num": 339
-    },
-    {
-      "name": "クリア（ヴァルキュリア）",
-      "element": "光",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 340
+      "num": 344
     },
     {
       "name": "実装前",
       "element": "",
       "attack": "",
       "getMethod": "limited",
-      "num": 341
+      "num": 345
     },
     {
       "name": "実装前",
       "element": "",
       "attack": "",
       "getMethod": "limited",
-      "num": 342
+      "num": 346
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 347
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 348
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 349
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 350
     }
   ]
 }
