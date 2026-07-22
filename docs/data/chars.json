@@ -428,6 +428,13 @@
       "num": 302
     },
     {
+      "name": "クルミ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 7
+    },
+    {
       "name": "イノリ",
       "element": "火",
       "attack": "b",
@@ -601,13 +608,6 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 206
-    },
-    {
-      "name": "クルミ",
-      "element": "風",
-      "attack": "b",
-      "getMethod": "low",
-      "num": 7
     },
     {
       "name": "ジータ",
@@ -2177,18 +2177,18 @@
       "num": 64
     },
     {
-      "name": "アスユイ",
-      "element": "光",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 253
-    },
-    {
       "name": "キャル（覇瞳天星）",
       "element": "闇",
       "attack": "m",
       "getMethod": "limited",
       "num": 333
+    },
+    {
+      "name": "アスユイ",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 253
     },
     {
       "name": "チカ（儀装束）",
