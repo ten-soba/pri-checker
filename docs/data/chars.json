@@ -897,6 +897,13 @@
       "num": 129
     },
     {
+      "name": "フブキ（サマー）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 344
+    },
+    {
       "name": "プリレイ",
       "element": "風",
       "attack": "b",
@@ -1552,6 +1559,13 @@
       "attack": "m",
       "getMethod": "event",
       "num": 227
+    },
+    {
+      "name": "ヴァンピィ（サマー）",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 345
     },
     {
       "name": "ハロリン",
@@ -2393,24 +2407,12 @@
       "getMethod": "limited",
       "num": 313
     },
+
+
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 344
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 345
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "ティア",
+      "element": "水",
+      "attack": "m",
       "getMethod": "limited",
       "num": 346
     },
