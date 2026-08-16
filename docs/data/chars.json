@@ -1652,18 +1652,18 @@
       "num": 233
     },
     {
-      "name": "カイザーインサイト",
-      "element": "闇",
-      "attack": "b",
-      "getMethod": "other",
-      "num": 208
-    },
-    {
       "name": "ミソラ（クリスマス）",
       "element": "水",
       "attack": "m",
       "getMethod": "limited",
       "num": 321
+    },
+    {
+      "name": "カイザーインサイト",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "other",
+      "num": 208
     },
     {
       "name": "ネネカ",
