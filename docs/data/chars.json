@@ -2416,34 +2416,69 @@
       "getMethod": "limited",
       "num": 346
     },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+     {
+      "name": "ヴルム（ヴァルムドラッヘ）",
+      "element": "闇",
+      "attack": "b",
       "getMethod": "limited",
       "num": 347
     },
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
+      "name": "リーザ",
+      "element": "風",
+      "attack": "b",
       "getMethod": "limited",
       "num": 348
     },
     {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
+      "name": "クローチェ（サブマリン）",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "permanent",
       "num": 349
+    },
+    {
+      "name": "サレン（ガンナー）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 350
+    },
+    {
+      "name": "アメス（ガンナー）",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 351
+    },
+    {
+      "name": "アグライア",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 352
     },
     {
       "name": "実装前",
       "element": "",
       "attack": "",
       "getMethod": "limited",
-      "num": 350
+      "num": 353
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 354
+    },
+    {
+      "name": "実装前",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 355
     }
-  ]
+   ]
 }
 
