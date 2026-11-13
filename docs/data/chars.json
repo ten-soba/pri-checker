@@ -1128,6 +1128,13 @@
       "num": 32
     },
     {
+      "name": "サレン（ガンナー）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 350
+    },
+    {
       "name": "サクラ",
       "element": "闇",
       "attack": "b",
@@ -1308,6 +1315,13 @@
       "attack": "b",
       "getMethod": "low",
       "num": 74
+    },
+    {
+      "name": "アメス（ガンナー）",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 351
     },
     {
       "name": "ハロニノン",
@@ -2262,6 +2276,13 @@
       "num": 53
     },
     {
+      "name": "アグライア",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 352
+    },
+    {
       "name": "ランファ",
       "element": "闇",
       "attack": "m",
@@ -2456,27 +2477,6 @@
       "attack": "b",
       "getMethod": "permanent",
       "num": 349
-    },
-    {
-      "name": "サレン（ガンナー）",
-      "element": "闇",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 350
-    },
-    {
-      "name": "アメス（ガンナー）",
-      "element": "火",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 351
-    },
-    {
-      "name": "アグライア",
-      "element": "光",
-      "attack": "m",
-      "getMethod": "limited",
-      "num": 352
     }
   ]
 }
