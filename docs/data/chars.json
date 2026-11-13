@@ -967,6 +967,13 @@
       "num": 23
     },
     {
+      "name": "ヴルム（ヴァルムドラッヘ）",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 347
+    },
+    {
       "name": "クリマヒル",
       "element": "風",
       "attack": "b",
@@ -979,6 +986,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 268
+    },
+    {
+      "name": "クローチェ（サブマリン）",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 349
     },
     {
       "name": "マジトモ",
@@ -2276,6 +2290,13 @@
       "num": 53
     },
     {
+      "name": "リーザ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 348
+    },
+    {
       "name": "アグライア",
       "element": "光",
       "attack": "m",
@@ -2456,27 +2477,6 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 346
-    },
-    {
-      "name": "ヴルム（ヴァルムドラッヘ）",
-      "element": "闇",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 347
-    },
-    {
-      "name": "リーザ",
-      "element": "風",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 348
-    },
-    {
-      "name": "クローチェ（サブマリン）",
-      "element": "水",
-      "attack": "b",
-      "getMethod": "permanent",
-      "num": 349
     }
   ]
 }
