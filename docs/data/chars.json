@@ -2480,8 +2480,8 @@
     },
     {
       "name": "デアリングタクト",
-      "element": "",
-      "attack": "",
+      "element": "風",
+      "attack": "b",
       "getMethod": "limited",
       "num": 356
     }
