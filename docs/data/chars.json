@@ -581,7 +581,7 @@
       "getMethod": "low",
       "num": 15
     },
-{
+    {
       "name": "グレイス",
       "element": "闇",
       "attack": "b",
@@ -687,6 +687,13 @@
       "num": 179
     },
     {
+      "name": "アーモンドアイ",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 354
+    },
+    {
       "name": "ハロトモ",
       "element": "火",
       "attack": "b",
@@ -785,7 +792,7 @@
       "num": 65
     },
     {
-     "name": "正月モニカ",
+      "name": "正月モニカ",
       "element": "光",
       "attack": "b",
       "getMethod": "event",
@@ -860,6 +867,13 @@
       "attack": "b",
       "getMethod": "permanent",
       "num": 141
+    },
+    {
+      "name": "ゴールドシップ",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "event",
+      "num": 353
     },
     {
       "name": "プリシェフィ",
@@ -1161,7 +1175,8 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 226
-    },{
+    },
+    {
       "name": "メドゥーサ",
       "element": "闇",
       "attack": "b",
@@ -1791,7 +1806,7 @@
       "getMethod": "limited",
       "num": 255
     },
-     {
+    {
       "name": "水ホマレ",
       "element": "闇",
       "attack": "m",
@@ -1896,7 +1911,7 @@
       "getMethod": "limited",
       "num": 82
     },
-     {
+    {
       "name": "水エミリア",
       "element": "風",
       "attack": "m",
@@ -1972,7 +1987,7 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 316
-    }, 
+    },
     {
       "name": "ハツシオ",
       "element": "光",
@@ -1993,6 +2008,13 @@
       "attack": "m",
       "getMethod": "low",
       "num": 47
+    },
+    {
+      "name": "ラッキーライラック",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 355
     },
     {
       "name": "水カスミ",
@@ -2407,8 +2429,6 @@
       "getMethod": "limited",
       "num": 313
     },
-
-
     {
       "name": "ティア",
       "element": "水",
@@ -2416,7 +2436,7 @@
       "getMethod": "limited",
       "num": 346
     },
-     {
+    {
       "name": "ヴルム（ヴァルムドラッヘ）",
       "element": "闇",
       "attack": "b",
@@ -2457,28 +2477,6 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 352
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 353
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 354
-    },
-    {
-      "name": "実装前",
-      "element": "",
-      "attack": "",
-      "getMethod": "limited",
-      "num": 355
     }
-   ]
+  ]
 }
-
