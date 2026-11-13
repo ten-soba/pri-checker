@@ -2477,6 +2477,13 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 346
+    },
+    {
+      "name": "デアリングタクト",
+      "element": "",
+      "attack": "",
+      "getMethod": "limited",
+      "num": 356
     }
   ]
 }
