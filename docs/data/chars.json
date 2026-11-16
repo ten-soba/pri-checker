@@ -981,6 +981,13 @@
       "num": 172
     },
     {
+      "name": "デアリングタクト",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 356
+    },
+    {
       "name": "水リリ",
       "element": "水",
       "attack": "b",
@@ -2477,13 +2484,6 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 346
-    },
-    {
-      "name": "デアリングタクト",
-      "element": "風",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 356
     }
   ]
 }
